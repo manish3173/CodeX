@@ -24,9 +24,9 @@ Welcome to Codex, a dynamic web application built as a coding platform using Nex
 ## Installation
 1. Install Prerequisites:
 
-- Node.js 
-- npm 
-- MongoDB
+  - Node.js 
+  - npm 
+  - MongoDB
 
 
 2. Clone the project:
