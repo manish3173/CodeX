@@ -1,5 +1,5 @@
 
-# Codex - Fullstack Web Application
+# Codex : Fullstack Web Application
 
 
 Welcome to Codex, a dynamic web application built as a coding platform using Next.js, Express, Tailwind CSS, MongoDB, and Node.js.
