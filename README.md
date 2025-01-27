@@ -52,14 +52,15 @@ Run the application locally to explore and use Codex's features.
   
 ## Contributing
 
-Contributions are always welcome!
-
-Please let me know if you find any bug or issues.
-
-
 ## Contact
-
 For questions or support, please contact:
 
 - **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+  
+## Contributing
+Feel free to submit issues and pull requests. Contributions are welcome!
+
+
+## License
+This project is licensed under the MIT License.
 
